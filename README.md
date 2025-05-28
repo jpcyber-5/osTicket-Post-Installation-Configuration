@@ -16,7 +16,8 @@ Once osTicket is successfully installed, complete the following configurations t
 
 - **End User Portal:**  
   `http://localhost/osTicket`
-
+![Screenshot 2025-05-27 205131](https://github.com/user-attachments/assets/e035787a-7e15-4997-9506-61b3b66547ce)
+![Screenshot 2025-05-28 152152](https://github.com/user-attachments/assets/047f069d-7723-413a-a6d6-0e1f68f8bd73)
 ---
 
 ### 🧭 Agent Panel vs Admin Panel
@@ -24,10 +25,8 @@ Once osTicket is successfully installed, complete the following configurations t
 - **Agent Panel:** Used by support agents to view, manage, and resolve tickets.
 
 
----![Screenshot 2025-05-27 205131](https://github.com/user-attachments/assets/e035787a-7e15-4997-9506-61b3b66547ce)
+---
 
-
-![Screenshot 2025-05-28 152152](https://github.com/user-attachments/assets/047f069d-7723-413a-a6d6-0e1f68f8bd73)
 
 ### 👥 Configure Roles
 Group agent permissions with defined roles:
