@@ -112,6 +112,7 @@ Create predefined topics for users to select when submitting tickets:
   - `Equipment Request`
   - `Password Reset`
   - `Other`
-![Screenshot 2025-05-28 153938](https://github.com/user-attachments/assets/07a13b18-0923-4ef1-b2f6-b349af49583e)
+
+![Screenshot 2025-05-28 155700](https://github.com/user-attachments/assets/fa7d3ddf-d15a-4da7-b986-f7bfbff5ac5d)
 
 ---
