@@ -32,7 +32,8 @@ Once osTicket is successfully installed, complete the following configurations t
 Group agent permissions with defined roles:
 - Navigate to: `Admin Panel → Agents → Roles`
 - Create Role: `Supreme Admin`
-
+![Screenshot 2025-05-28 152331](https://github.com/user-attachments/assets/978ade5f-48e9-4a3f-9703-5d6c62a15c2e)
+![Screenshot 2025-05-28 152411](https://github.com/user-attachments/assets/1f5e5d33-dfeb-4184-be41-6248c17322bc)
 ---
 
 ### 🏢 Configure Departments
@@ -40,8 +41,10 @@ Control ticket visibility and organize teams:
 - Navigate to: `Admin Panel → Agents → Departments`
 - Add Department: `SysAdmins`
 
-![Screenshot 2025-05-28 152331](https://github.com/user-attachments/assets/978ade5f-48e9-4a3f-9703-5d6c62a15c2e)
-![Screenshot 2025-05-28 152411](https://github.com/user-attachments/assets/1f5e5d33-dfeb-4184-be41-6248c17322bc)
+![Screenshot 2025-05-28 152450](https://github.com/user-attachments/assets/4f058cef-c1ee-44b6-8b07-6e91a38b8e49)
+![Screenshot 2025-05-28 152537](https://github.com/user-attachments/assets/3f2e04fe-11a6-4ea0-b148-779245e3bc90)
+
+
 
 ---
 
