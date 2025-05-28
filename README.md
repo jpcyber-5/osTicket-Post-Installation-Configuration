@@ -23,7 +23,11 @@ Once osTicket is successfully installed, complete the following configurations t
 - **Admin Panel:** Used by system admins to configure osTicket (agents, roles, teams, SLAs, settings).
 - **Agent Panel:** Used by support agents to view, manage, and resolve tickets.
 
----
+
+---![Screenshot 2025-05-27 205131](https://github.com/user-attachments/assets/e035787a-7e15-4997-9506-61b3b66547ce)
+
+
+![Screenshot 2025-05-28 152152](https://github.com/user-attachments/assets/047f069d-7723-413a-a6d6-0e1f68f8bd73)
 
 ### 👥 Configure Roles
 Group agent permissions with defined roles:
@@ -37,6 +41,9 @@ Control ticket visibility and organize teams:
 - Navigate to: `Admin Panel → Agents → Departments`
 - Add Department: `SysAdmins`
 
+![Screenshot 2025-05-28 152331](https://github.com/user-attachments/assets/978ade5f-48e9-4a3f-9703-5d6c62a15c2e)
+![Screenshot 2025-05-28 152411](https://github.com/user-attachments/assets/1f5e5d33-dfeb-4184-be41-6248c17322bc)
+
 ---
 
 ### 🤝 Configure Teams
@@ -44,13 +51,20 @@ Teams allow agents from multiple departments to collaborate:
 - Navigate to: `Admin Panel → Agents → Teams`
 - Add Team: `Online Banking`
 
+![Screenshot 2025-05-28 154553](https://github.com/user-attachments/assets/5c0feeb4-69d1-4c23-b951-ac9c5868d5ef)
+
+
+
+
 ---
 
 ### 🌐 User Access Settings
 Control whether users need to register to submit tickets:
 - Navigate to: `Admin Panel → Settings → User Settings`
-- ❌ **Uncheck**: "Unregistered users can create tickets"
-- ✅ **Enable**: "Require registration and login to create tickets"
+- ❌ **Uncheck**: "Require registration and login to create tickets"
+  
+![Screenshot 2025-05-28 152753](https://github.com/user-attachments/assets/12032356-7395-478a-8c28-94c15c486d1e)
+
 
 ---
 
@@ -61,14 +75,16 @@ Add internal users who will manage tickets:
   - `Jane` (Department: SysAdmins)
   - `John` (Department: Support)
 
----
+---![Screenshot 2025-05-28 153239](https://github.com/user-attachments/assets/b5a834d4-2e1e-4d5c-beae-77ee888a6c09)
+
 
 ### 🙋‍♂️ Configure Users (Customers)
 Add customers who will submit support requests:
 - Navigate to: `Agent Panel → Users → Add New`
 - Add:
   - `Karen`
-  - `Ken`
+
+![Screenshot 2025-05-28 153421](https://github.com/user-attachments/assets/0ba09209-15d0-4e4e-a0aa-3e75fa11e325)
 
 ---
 
@@ -79,6 +95,9 @@ Define ticket urgency and response expectations:
   - `Sev-A`: Grace Period 1 hour, Schedule 24/7
   - `Sev-B`: Grace Period 4 hours, Schedule 24/7
   - `Sev-C`: Grace Period 8 hours, Business Hours
+ 
+  
+![Screenshot 2025-05-28 153648](https://github.com/user-attachments/assets/a476fd6b-bfe2-47a4-a50e-fd9e8f4dba8b)
 
 ---
 
@@ -91,5 +110,6 @@ Create predefined topics for users to select when submitting tickets:
   - `Equipment Request`
   - `Password Reset`
   - `Other`
+![Screenshot 2025-05-28 153938](https://github.com/user-attachments/assets/07a13b18-0923-4ef1-b2f6-b349af49583e)
 
 ---
