@@ -7,6 +7,7 @@
 ## 🛠️ Post-Installation Configuration
 
 Once osTicket is successfully installed, complete the following configurations to prepare the helpdesk environment for internal use and customer support.
+![image](https://github.com/user-attachments/assets/49007198-7743-4148-83d1-d8de7c4e83e1)
 
 ---
 
